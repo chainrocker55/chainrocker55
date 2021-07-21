@@ -2,7 +2,7 @@
 - 👀 I’m interested in excellent programmer
 - 🌱 I’m currently learning programming 
 - 💞️ I’m looking to collaborate on programmer
-- 📫 How to reach me good programmer
+- 📫 How to reach me a good programmer
 
 <!---
 chainrocker55/chainrocker55 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
